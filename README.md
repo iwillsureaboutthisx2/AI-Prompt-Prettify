@@ -1,6 +1,6 @@
 # AI Prompt Prettify by KPZsProductions
 
-[![Commit Activity](https://img.shields.io/github/commit-activity/m/KPZsProductions/AI-Prompt-Prettify)](https://github.com/KPZsProductions/AI-Prompt-Prettify/graphs/commit-activity)
+[![Commit Activity](https://img.shields.io/github/commit-activity/m/KPZ231/AI-Prompt-Prettify)](https://github.com/KPZ231/AI-Prompt-Prettify/graphs/commit-activity)
 
 ---
 
