@@ -1,7 +1,5 @@
 # AI Prompt Prettify by KPZsProductions
 
-[![Build Status](https://github.com/KPZsProductions/AI-Prompt-Prettify/actions/workflows/main.yml/badge.svg)](https://github.com/KPZsProductions/AI-Prompt-Prettify/actions/workflows/main.yml)
-[![Contributors](https://contrib.rocks/image?repo=KPZsProductions/AI-Prompt-Prettify)](https://github.com/KPZsProductions/AI-Prompt-Prettify/graphs/contributors)
 [![Commit Activity](https://img.shields.io/github/commit-activity/m/KPZsProductions/AI-Prompt-Prettify)](https://github.com/KPZsProductions/AI-Prompt-Prettify/graphs/commit-activity)
 
 ---
@@ -79,16 +77,6 @@ Projekt **AI Prompt Prettify** jest objęty prawami autorskimi © 2025 KPZsProdu
 
 ---
 
-## GitHub Embeds
-
-- **Build Status:**  
-  [![Build Status](https://github.com/KPZsProductions/AI-Prompt-Prettify/actions/workflows/main.yml/badge.svg)](https://github.com/KPZsProductions/AI-Prompt-Prettify/actions/workflows/main.yml)
-
-- **Contributors:**  
-  [![Contributors](https://contrib.rocks/image?repo=KPZsProductions/AI-Prompt-Prettify)](https://github.com/KPZsProductions/AI-Prompt-Prettify/graphs/contributors)
-
-- **Commit Activity:**  
-  [![Commit Activity](https://img.shields.io/github/commit-activity/m/KPZsProductions/AI-Prompt-Prettify)](https://github.com/KPZsProductions/AI-Prompt-Prettify/graphs/commit-activity)
 
 ---
 
